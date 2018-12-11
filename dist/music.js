@@ -1,7 +1,8 @@
 const ap = new APlayer({
     container: document.getElementById('aplayer'),
     fixed: false,
-    autoplay: false,
+    autoplay: true,
+    mini: true,
     audio: [
       {
         name: "China-X",

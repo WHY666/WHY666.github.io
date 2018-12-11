@@ -7,27 +7,27 @@ const ap = new APlayer({
    {
         name: "夏天的风",
         artist: '温岚',
-        url: '/dist/songs/夏天的风',
+        url: '/dist/songs/夏天的风.mp3',
         cover: 'https://imgessl.kugou.com/stdmusic/20160907/20160907221352180114.jpg',
       },  
     {
         name: "笔记本",
         artist: '陈慧琳',
-        url: '/dist/songs/笔记本',
+        url: '/dist/songs/笔记本.mp3',
         cover: 'https://imgessl.kugou.com/stdmusic/20160907/20160907201549230205.jpg',
     },      
    
     {
         name: "笔记",
         artist: '周笔畅',
-        url: '/dist/songs/笔记',
+        url: '/dist/songs/笔记.mp3',
         cover: 'https://imgessl.kugou.com/stdmusic/20180117/20180117181020178380.jpg',
     },            
 
     {
         name: "melody",
         artist: '陶喆',
-        url: '/dist/songs/melody',
+        url: '/dist/songs/melody.mp3',
         cover: 'https://imgessl.kugou.com/stdmusic/20150718/20150718174252663587.jpg',
     },    
    
@@ -35,7 +35,7 @@ const ap = new APlayer({
     {
         name: "真的爱你",
         artist: 'Beyond',
-        url: '/dist/songs/真的爱你',
+        url: '/dist/songs/真的爱你.mp3',
         cover: 'https://imgessl.kugou.com/stdmusic/20150715/20150715232800432202.jpg',
     },     
     

@@ -4,6 +4,12 @@ const ap = new APlayer({
     autoplay: true,
     mini: true,
     audio: [
+ {
+        name: "平凡之路--木吉他版",
+        artist: '朴树',
+        url: '/dist/songs/平凡之路木吉他.mp3',
+        cover: 'https://imgessl.kugou.com/stdmusic/20160907/20160907184638429200.jpg',
+      },     
     {
         name: "我们的歌",
         artist: '王力宏',

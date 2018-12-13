@@ -7,19 +7,19 @@ const ap = new APlayer({
     {
         name: "小宇",
         artist: '张震岳',
-        url: 'https://m10.music.126.net/20181213100606/a1bec31e4af93f4c7967bc520051479a/ymusic/e769/507d/71d5/8989c9e07a9e6e116fd67992709d71d2.mp3',
+        url: '/dist/songs/小宇.mp3',
         cover: 'https://p1.music.126.net/N61oLy0iLfEkZTHD2j87iA==/18693896697392706.jpg',
     },  
     {
         name: "就让这首歌",
         artist: '张震岳',
-        url: 'https://m10.music.126.net/20181213100906/28a0ab5b7abd455927eb186e62300e86/ymusic/8f8f/85f9/9d84/04a85f2149da1c35f3779eb1319eaf6e.mp3',
+        url: '/dist/songs/就让这首歌.mp3',
         cover: 'https://p1.music.126.net/N61oLy0iLfEkZTHD2j87iA==/18693896697392706.jpg',
     },      
     {
         name: "思念是一种病",
         artist: '张震岳',
-        url: 'https://m10.music.126.net/20181213101447/fcb837c7f71d349883aeba11cfd6df6c/ymusic/5d3c/5b8c/274d/0df0511f8af71f9e68d1756e63aec28f.mp3',
+        url: '/dist/songs/思念是一种病.mp3',
         cover: 'https://p1.music.126.net/N61oLy0iLfEkZTHD2j87iA==/18693896697392706.jpg',
     },      
     {
@@ -50,7 +50,7 @@ const ap = new APlayer({
     {
         name: "笔记",
         artist: '周笔畅',
-        url: 'https://m10.music.126.net/20181213095142/83ccf19f10af8cf9cb594d05f9665be8/ymusic/65b6/0252/9c18/5e3d19341e9fe01f89bef2815d01d498.mp3',
+        url: '/dist/songs/笔记.mp3',
         cover: 'https://imgessl.kugou.com/stdmusic/20180117/20180117181020178380.jpg',
     },            
 
@@ -63,8 +63,8 @@ const ap = new APlayer({
    {
         name: "真的爱你",
         artist: 'Beyond',
-        url: '/dist/songs/真的爱你.mp3',
-        cover: 'http://fs.w.kugou.com/201812130835/bbe83547374f190b67cf991a6d790ebb/G135/M03/10/0F/J4cBAFuGdRiAT-jCAEOVZVhv24s616.mp3',
+        url: 'http://fs.w.kugou.com/201812130835/bbe83547374f190b67cf991a6d790ebb/G135/M03/10/0F/J4cBAFuGdRiAT-jCAEOVZVhv24s616.mp3',
+        cover: 'https://imgessl.kugou.com/stdmusic/20150715/20150715232800432202.jpg',
     },       
    {
         name: "画沙",
@@ -97,10 +97,10 @@ const ap = new APlayer({
         cover: 'https://imgessl.kugou.com/stdmusic/20160812/20160812190229390849.jpg',
     },    
    {
-        name: "平凡之路--木吉他版",
+        name: "平凡之路",
         artist: '朴树',
-        url: 'https://m10.music.126.net/20181213102827/609b92636247ea88e9b444dee141414c/ymusic/4413/1878/ada3/d671b4e72d8a26199c9883463639ef13.mp3',
-        cover: 'https://p2.music.126.net/etEzXkRd2FXo7IqrlOPC4Q==/16601526067929229.jpg?param=34y34',
+        url: '/dist/songs/平凡之路.mp3',
+        cover: 'https://p2.music.126.net/etEzXkRd2FXo7IqrlOPC4Q==/16601526067929229.jpg',
     },         
     {
         name: '最美的期待',
@@ -111,14 +111,14 @@ const ap = new APlayer({
     {
         name: '北京东路的日子',
         artist: '刘千楚',
-        url: 'https://m10.music.126.net/20181213103250/17e856d29fe3e74c0be190e837f23b18/ymusic/9fb8/70be/ee7b/5bb795225868a7d7b7274cb9de7bdf5e.mp3',
+        url: '/dist/songs/北京东路的日子.mp3',
         cover: 'https://p1.music.126.net/nioPMqyc0opzEavs67vdYw==/19128203788658830.jpg',
     },     
     {
         name: '她说',
         artist: '林俊杰',
-        url: '/dist/songs/她说.mp3',
-        cover: 'http://fs.w.kugou.com/201812130920/968d8e78bcb950190b4a5a3f005fdd00/G005/M02/05/11/pYYBAFT9sqOAavIhAE3gCox55oQ360.mp3',
+        url: 'http://fs.w.kugou.com/201812130920/968d8e78bcb950190b4a5a3f005fdd00/G005/M02/05/11/pYYBAFT9sqOAavIhAE3gCox55oQ360.mp3',
+        cover: 'https://imgessl.kugou.com/stdmusic/20170424/20170424173313557089.jpg',
     },
    {
         name: "一生有你",
